@@ -35,4 +35,4 @@ A simplified drawing app similar to MS Paint, created using Java Swing.
 
 ## 💬 Let's Connect
 - 📫 [Email me](mailto:tinani@seas.upenn.edu)
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tina-ni-795838284/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tina-ni-795838284/)
