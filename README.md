@@ -36,6 +36,22 @@ Built for CIS 1200 to explore functional reactive programming, modules, and inte
 
 ---
 
+### 🔢 2048 (Java, GUI) — *Private Repo*
+
+A playable version of the classic 2048 game, built in Java using Swing and MVC design principles.  
+Built for the CIS 1200 final project at Penn.
+
+**Features:**
+- Real-time tile movement using arrow keys
+- Undo functionality using a deque
+- GUI interface with dynamically colored tiles
+- Win/lose state detection and messages
+- Fully testable model with JUnit tests
+
+> 🔒 Code available upon request
+
+---
+
 ## 💬 Let's Connect
 - 📫 [Email me](mailto:tinani@seas.upenn.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tina-ni-795838284/)
