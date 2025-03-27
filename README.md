@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tina Ni
+# Hi, I'm Tina Ni
 
 Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying Artificial Intelligence, and this repo highlights some of the projects I've worked on.  
 
