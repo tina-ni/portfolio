@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Tina Ni
 
-Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying [Your Major], and this repo highlights some of the software projects I've worked on.  
-Many of these projects were developed through coursework in CIS 1100 and 1200 or built independently to explore new tools and ideas.
+Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying Artificial Intelligence, and this repo highlights some of the projects I've worked on.  
 
 > ⚠️ Some projects are kept private to respect academic policies, but I'm happy to share access upon request!
 
 ---
 
-## 🐍 Snake Game (Java, GUI) — *Private Repo*
+### 🐍 Snake Game (Java, GUI) — *Private Repo*
 
-A full-featured version of the classic Snake game built with Java and Swing.
+A classic Snake game implemented with Java and Swing, built entirely from scratch as a final project for CIS 1100 at Penn.
 
-**Highlights:**
-- Real-time movement using WASD controls
-- Game-over detection and score tracking
-- GUI rendering with custom graphics
+**Features:**
+- WASD keyboard movement with real-time rendering
+- Bonus food that appears and disappears at random intervals
+- Obstacles that the snake must avoid
+- High score tracker and restart functionality
+- Clean object-oriented design with separate classes for food, snake, obstacles, and game logic
 
-<!-- optional: 
-[📷 Demo Screenshot](link)
--->
+> 🔒 Code available upon request.
 
 ---
 
