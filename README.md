@@ -21,15 +21,18 @@ A classic Snake game implemented with Java and Swing, built entirely from scratc
 
 ---
 
-## 🎨 Paint App (Java) — *Private Repo*
+### 🎨 Paint App (OCaml, GUI) — *Private Repo*
 
-A simplified drawing app similar to MS Paint, created using Java Swing.
+A simple GUI-based drawing application written in OCaml.  
+Built for CIS 1200 to explore functional reactive programming, modules, and interactive widget design.
 
-**Highlights:**
-- Color palette, freehand drawing
-- Undo/redo features
-- Save/load drawings
+**Features:**
+- Freehand drawing on a canvas
+- Color selection and brush thickness tools
+- Mouse-based input for interactive drawing
+- Modular architecture using OCaml’s module system
 
+> 🔒 Code available upon request
 
 ---
 
