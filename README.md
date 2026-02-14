@@ -6,18 +6,17 @@ Welcome to my coding portfolio! I'm a student at the University of Pennsylvania 
 
 ---
 
-### 🐍 Snake Game (Java, GUI) — *Private Repo*
+### 💻 Penn Spark Website
 
-A classic Snake game implemented with Java and Swing, built entirely from scratch as a final project for CIS 1100 at Penn.
+https://pennspark.org/ 
 
-**Features:**
-- WASD keyboard movement with real-time rendering
-- Bonus food that appears and disappears at random intervals
-- Obstacles that the snake must avoid
-- High score tracker and restart functionality
-- Clean object-oriented design with separate classes for food, snake, obstacles, and game logic
+Worked as a developer on the Penn Spark website, contributing to a production-facing platform used by a student-run organization at Penn.
 
-> 🔒 Code available upon request.
+**Highlights:**
+- Collaborated in a team-based development environment
+- Implemented UI components and site features
+- Gained experience working with an existing codebase, version control, and iterative development
+- Exposure to real-world constraints and stakeholder feedback
 
 ---
 
@@ -51,6 +50,19 @@ Built for the CIS 1200 final project at Penn.
 > 🔒 Code available upon request
 
 ---
+
+### 🐍 Snake Game (Java, GUI) — *Private Repo*
+
+A classic Snake game implemented with Java and Swing, built entirely from scratch as a final project for CIS 1100 at Penn.
+
+**Features:**
+- WASD keyboard movement with real-time rendering
+- Bonus food that appears and disappears at random intervals
+- Obstacles that the snake must avoid
+- High score tracker and restart functionality
+- Clean object-oriented design with separate classes for food, snake, obstacles, and game logic
+
+> 🔒 Code available upon request.
 
 ## 💬 Let's Connect
 - 📫 [Email me](mailto:tinani@seas.upenn.edu)
