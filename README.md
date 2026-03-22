@@ -1,6 +1,6 @@
 # Hi, I'm Tina Ni
 
-Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying Artificial Intelligence, and this repo highlights some of the projects I've worked on.  
+Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying Computer Science, and this repo highlights some of the projects I've worked on.  
 
 > ⚠️ Some projects are kept private to respect academic policies, but I'm happy to share access upon request!
 
