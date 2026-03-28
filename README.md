@@ -52,8 +52,6 @@ Work completed in collaborative environments and student organizations.
 
 ### 💻 Penn Spark Website
 
-🔗 https://pennspark.org/
-
 Worked as a developer on a production-facing website used by a student organization at Penn.
 
 **Highlights:**
@@ -61,6 +59,8 @@ Worked as a developer on a production-facing website used by a student organizat
 - Collaborated in a team using Git-based workflows (PRs, code reviews)
 - Contributed to a live platform used by **hundreds of applicants per semester**
 - Gained experience working within an existing codebase and shipping incremental improvements
+
+🔗 https://pennspark.org/
 
 **Currently Working On:**
 - 🌍 **Atelic (In Progress)** — early-stage project, details coming soon
