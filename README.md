@@ -2,7 +2,7 @@
 
 Welcome to my coding portfolio! I'm a Computer Science student at the University of Pennsylvania interested in building real-world, user-facing systems—especially at the intersection of full-stack development and AI.
 
-> ⚠️ Some projects are kept private to respect academic policies, but I'm happy to share access upon request!
+> ⚠️ Some projects are private due to academic policies or confidentiality agreements. I’m happy to discuss my work and share details where permitted
 
 
 
