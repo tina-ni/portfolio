@@ -1,69 +1,106 @@
 # Hi, I'm Tina Ni
 
-Welcome to my coding portfolio! I'm a student at the University of Pennsylvania studying Computer Science, and this repo highlights some of the projects I've worked on.  
+Welcome to my coding portfolio! I'm a Computer Science student at the University of Pennsylvania interested in building real-world, user-facing systems—especially at the intersection of full-stack development and AI.
 
 > ⚠️ Some projects are kept private to respect academic policies, but I'm happy to share access upon request!
+
+
+
+---
+
+## 🚀 Featured Projects
+Projects I’ve built independently or as part of startups, focused on real-world impact and full-stack systems.
+
+---
+
+### 🧠 OpenFields — *Founding Engineer*
+
+An AI-native learning system where assignments are structured as adaptive conversations, requiring users to demonstrate reasoning step-by-step rather than simply producing answers.
+
+**Highlights:**
+- Built full-stack features using **React, Node.js, and Supabase** to support real-time, checkpoint-based learning workflows  
+- Designed backend systems for managing **user state, progression, and evaluation across multi-step reasoning tasks**  
+- Developed APIs that structure assignments into **guided interactions with validation, feedback, and iterative probing**  
+- Focused on treating AI as an **evaluation and reasoning system**, not just a generative assistant  
+- Worked closely with founders to define product direction, translating educational challenges into scalable system design  
+
+---
+
+### 🦆 ProDucktivity — *Chrome Extension*
+
+A productivity-focused Chrome extension that tracks browsing behavior and provides real-time feedback through an interactive UI.
+
+**Highlights:**
+- Built using **JavaScript + Chrome Extensions API (Manifest v3)**
+- Implemented a persistent UI overlay using **MutationObserver + DOM injection**
+- Tracks user activity across sites and triggers event-driven feedback
+- Designed for real-time interaction with minimal performance overhead
+- Explored behavioral design to encourage more intentional browsing habits
+
+🔗 https://github.com/tina-ni/ProDucktivity
+
+
+
+---
+
+## 🤝 Organizational Experience
+Work completed in collaborative environments and student organizations.
 
 ---
 
 ### 💻 Penn Spark Website
 
-https://pennspark.org/ 
+🔗 https://pennspark.org/
 
-Worked as a developer on the Penn Spark website, contributing to a production-facing platform used by a student-run organization at Penn.
+Worked as a developer on a production-facing website used by a student organization at Penn.
 
 **Highlights:**
-- Collaborated in a team-based development environment
-- Implemented UI components and site features
-- Gained experience working with an existing codebase, version control, and iterative development
-- Exposure to real-world constraints and stakeholder feedback
+- Built and refined **React-based UI components**
+- Collaborated in a team using Git-based workflows (PRs, code reviews)
+- Contributed to a live platform used by **hundreds of applicants per semester**
+- Gained experience working within an existing codebase and shipping incremental improvements
+
+**Currently Working On:**
+- 🌍 **Atelic (In Progress)** — early-stage project, details coming soon
+
+
+
+---
+
+## 🏫 Academic Projects
+A collection of course projects focused on building interactive systems, applying object-oriented design, and developing testable, user-facing applications.
 
 ---
 
 ### 🎨 Paint App (OCaml, GUI) — *Private Repo*
+A GUI-based drawing application built in OCaml to explore functional programming and interactive systems.
 
-A simple GUI-based drawing application written in OCaml.  
-Built for CIS 1200 to explore functional reactive programming, modules, and interactive widget design.
-
-**Features:**
-- Freehand drawing on a canvas
-- Color selection and brush thickness tools
-- Mouse-based input for interactive drawing
-- Modular architecture using OCaml’s module system
+- Freehand drawing with adjustable brush settings  
+- Modular architecture using OCaml’s module system  
+- Event-driven input handling for interactive rendering  
 
 > 🔒 Code available upon request
 
 ---
 
 ### 🔢 2048 (Java, GUI) — *Private Repo*
+A full implementation of 2048 using Java Swing and MVC architecture.
 
-A playable version of the classic 2048 game, built in Java using Swing and MVC design principles.  
-Built for the CIS 1200 final project at Penn.
-
-**Features:**
-- Real-time tile movement using arrow keys
-- Undo functionality using a deque
-- GUI interface with dynamically colored tiles
-- Win/lose state detection and messages
-- Fully testable model with JUnit tests
+- Real-time tile movement and game state updates  
+- Undo functionality using a deque  
+- Fully testable model with **JUnit tests**  
+- Dynamic UI rendering with state-based styling  
 
 > 🔒 Code available upon request
 
 ---
 
 ### 🐍 Snake Game (Java, GUI) — *Private Repo*
+A classic Snake game built from scratch using object-oriented design.
 
-A classic Snake game implemented with Java and Swing, built entirely from scratch as a final project for CIS 1100 at Penn.
+- Real-time WASD movement and rendering  
+- Randomized food and obstacle generation  
+- Game state management (score, restart, collisions)  
+- Clean separation of logic across components  
 
-**Features:**
-- WASD keyboard movement with real-time rendering
-- Bonus food that appears and disappears at random intervals
-- Obstacles that the snake must avoid
-- High score tracker and restart functionality
-- Clean object-oriented design with separate classes for food, snake, obstacles, and game logic
-
-> 🔒 Code available upon request.
-
-## 💬 Let's Connect
-- 📫 [Email me](mailto:tinani@seas.upenn.edu)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tina-ni-795838284/)
+> 🔒 Code available upon request
