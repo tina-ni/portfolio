@@ -22,7 +22,9 @@ An AI-native learning system where assignments are structured as adaptive conver
 - Designed backend systems for managing **user state, progression, and evaluation across multi-step reasoning tasks**  
 - Developed APIs that structure assignments into **guided interactions with validation, feedback, and iterative probing**  
 - Focused on treating AI as an **evaluation and reasoning system**, not just a generative assistant  
-- Worked closely with founders to define product direction, translating educational challenges into scalable system design  
+- Worked closely with founders to define product direction, translating educational challenges into scalable system design
+
+🔗 https://www.open-field.company/
 
 ---
 
